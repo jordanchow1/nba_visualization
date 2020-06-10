@@ -6,7 +6,7 @@ for basketball players, teams, and positions for the 2019-2020 Season
 - R, Shiny, Plotly, dplyr, rvest
 
 ### Snapshots
-![input](nba_visualization/blob/master/input_selection.png)
-![scatterplot](nba_visualization/blob/master/scatter_plot.png)
-![polar](blob/master/polar_diagram.png)
-![histogram](nba_visualization/blob/master/histogram.png)
+![input](https://github.com/jordanchow1/nba_visualization/blob/master/input_selection.png)
+![scatterplot](https://github.com/jordanchow1/nba_visualization/blob/master/scatter_plot.png)
+![polar](https://github.com/jordanchow1/blob/master/polar_diagram.png)
+![histogram](https://github.com/jordanchow1/nba_visualization/blob/master/histogram.png)
